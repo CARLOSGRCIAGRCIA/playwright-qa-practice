@@ -1,0 +1,23 @@
+{
+  "name": "playwright-qa-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CARLOSGRCIAGRCIA/playwright-qa-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CARLOSGRCIAGRCIA/playwright-qa-practice/issues"
+  },
+  "homepage": "https://github.com/CARLOSGRCIAGRCIA/playwright-qa-practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.0"
+  }
+}
